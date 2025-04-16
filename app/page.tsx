@@ -6,6 +6,7 @@ import Footer from '@/sections/Footer'
 import Header from '@/sections/Header'
 import MasterclassContent from '@/sections/MasterClassContent'
 import Outcomes from '@/sections/Outcomes'
+import Price from '@/sections/Price'
 import Results from '@/sections/Results'
 import Testimonials from '@/sections/Testimonials'
 
@@ -19,8 +20,9 @@ export default function Home() {
 			<MasterclassContent />
 			<Testimonials />
 			<Results />
-			<FAQ />
+			<Price />
 			<CTA />
+			<FAQ />
 			<Footer />
 		</div>
 	)
