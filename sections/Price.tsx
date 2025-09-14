@@ -6,7 +6,7 @@ export default function Price() {
 			<h2 className='text-3xl font-bold mb-6'>ЦІНА</h2>
 			<div className='text-center p-10 rounded-2xl shadow-2xl bg-gradient-to-br from-red-700 via-orange-600 to-yellow-500 animate-pulse'>
 				<h1 className='text-4xl font-extrabold text-white drop-shadow-lg'>
-					🔥 5000 грн 🔥
+					🔥 6000 грн 🔥
 				</h1>
 			</div>
 		</div>
